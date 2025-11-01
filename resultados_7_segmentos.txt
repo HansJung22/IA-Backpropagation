@@ -1,0 +1,1441 @@
+Limpando log antigo... (Iniciando lote de 30 execuções)
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:31:01 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02134720
+Época 2000/10000, Erro (MSE): 0.00572356
+Época 3000/10000, Erro (MSE): 0.00239113
+Época 4000/10000, Erro (MSE): 0.00144610
+Época 5000/10000, Erro (MSE): 0.00101876
+Época 6000/10000, Erro (MSE): 0.00077927
+Época 7000/10000, Erro (MSE): 0.00062782
+Época 8000/10000, Erro (MSE): 0.00052414
+Época 9000/10000, Erro (MSE): 0.00044896
+Época 10000/10000, Erro (MSE): 0.00039205
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 5 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:31:12 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.01950977
+Época 2000/10000, Erro (MSE): 0.00373944
+Época 3000/10000, Erro (MSE): 0.00157479
+Época 4000/10000, Erro (MSE): 0.00099829
+Época 5000/10000, Erro (MSE): 0.00072982
+Época 6000/10000, Erro (MSE): 0.00057447
+Época 7000/10000, Erro (MSE): 0.00047323
+Época 8000/10000, Erro (MSE): 0.00040205
+Época 9000/10000, Erro (MSE): 0.00034929
+Época 10000/10000, Erro (MSE): 0.00030864
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 5 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 9 | Status: INCORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 4 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:31:24 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02315838
+Época 2000/10000, Erro (MSE): 0.00555299
+Época 3000/10000, Erro (MSE): 0.00253287
+Época 4000/10000, Erro (MSE): 0.00157828
+Época 5000/10000, Erro (MSE): 0.00113081
+Época 6000/10000, Erro (MSE): 0.00087524
+Época 7000/10000, Erro (MSE): 0.00071120
+Época 8000/10000, Erro (MSE): 0.00059749
+Época 9000/10000, Erro (MSE): 0.00051426
+Época 10000/10000, Erro (MSE): 0.00045085
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 5 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 8 | Status: INCORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 8 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:31:37 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.01698162
+Época 2000/10000, Erro (MSE): 0.00271498
+Época 3000/10000, Erro (MSE): 0.00127919
+Época 4000/10000, Erro (MSE): 0.00082061
+Época 5000/10000, Erro (MSE): 0.00059948
+Época 6000/10000, Erro (MSE): 0.00047040
+Época 7000/10000, Erro (MSE): 0.00038618
+Época 8000/10000, Erro (MSE): 0.00032707
+Época 9000/10000, Erro (MSE): 0.00028337
+Época 10000/10000, Erro (MSE): 0.00024980
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 7 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 4 | Status: INCORRETO
+Dígito: 4 | Previsto: 8 | Status: INCORRETO
+Dígito: 5 | Previsto: 0 | Status: INCORRETO
+Dígito: 6 | Previsto: 8 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:31:51 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02263260
+Época 2000/10000, Erro (MSE): 0.00347988
+Época 3000/10000, Erro (MSE): 0.00153034
+Época 4000/10000, Erro (MSE): 0.00095987
+Época 5000/10000, Erro (MSE): 0.00069321
+Época 6000/10000, Erro (MSE): 0.00054022
+Época 7000/10000, Erro (MSE): 0.00044153
+Época 8000/10000, Erro (MSE): 0.00037282
+Época 9000/10000, Erro (MSE): 0.00032232
+Época 10000/10000, Erro (MSE): 0.00028369
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 5 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 1 | Status: INCORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 9 | Status: INCORRETO
+Dígito: 6 | Previsto: 5 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:32:05 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02998457
+Época 2000/10000, Erro (MSE): 0.00566153
+Época 3000/10000, Erro (MSE): 0.00238336
+Época 4000/10000, Erro (MSE): 0.00145400
+Época 5000/10000, Erro (MSE): 0.00102512
+Época 6000/10000, Erro (MSE): 0.00078244
+Época 7000/10000, Erro (MSE): 0.00062809
+Época 8000/10000, Erro (MSE): 0.00052208
+Época 9000/10000, Erro (MSE): 0.00044518
+Época 10000/10000, Erro (MSE): 0.00038708
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 4 | Status: INCORRETO
+Dígito: 4 | Previsto: 8 | Status: INCORRETO
+Dígito: 5 | Previsto: 7 | Status: INCORRETO
+Dígito: 6 | Previsto: 4 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:32:17 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02131568
+Época 2000/10000, Erro (MSE): 0.00386182
+Época 3000/10000, Erro (MSE): 0.00177381
+Época 4000/10000, Erro (MSE): 0.00112320
+Época 5000/10000, Erro (MSE): 0.00081419
+Época 6000/10000, Erro (MSE): 0.00063535
+Época 7000/10000, Erro (MSE): 0.00051932
+Época 8000/10000, Erro (MSE): 0.00043821
+Época 9000/10000, Erro (MSE): 0.00037846
+Época 10000/10000, Erro (MSE): 0.00033267
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 7 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 8 | Status: INCORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 8 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:32:30 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.01888957
+Época 2000/10000, Erro (MSE): 0.00296134
+Época 3000/10000, Erro (MSE): 0.00145865
+Época 4000/10000, Erro (MSE): 0.00094796
+Época 5000/10000, Erro (MSE): 0.00069578
+Época 6000/10000, Erro (MSE): 0.00054686
+Época 7000/10000, Erro (MSE): 0.00044909
+Época 8000/10000, Erro (MSE): 0.00038021
+Época 9000/10000, Erro (MSE): 0.00032920
+Época 10000/10000, Erro (MSE): 0.00028996
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 9 | Status: INCORRETO
+Dígito: 4 | Previsto: 8 | Status: INCORRETO
+Dígito: 5 | Previsto: 6 | Status: INCORRETO
+Dígito: 6 | Previsto: 4 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:32:43 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.01927016
+Época 2000/10000, Erro (MSE): 0.00321206
+Época 3000/10000, Erro (MSE): 0.00147117
+Época 4000/10000, Erro (MSE): 0.00093231
+Época 5000/10000, Erro (MSE): 0.00067684
+Época 6000/10000, Erro (MSE): 0.00052922
+Época 7000/10000, Erro (MSE): 0.00043354
+Época 8000/10000, Erro (MSE): 0.00036668
+Época 9000/10000, Erro (MSE): 0.00031741
+Época 10000/10000, Erro (MSE): 0.00027965
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 7 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 9 | Status: INCORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 2 | Status: INCORRETO
+Dígito: 6 | Previsto: 4 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:32:55 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.01651394
+Época 2000/10000, Erro (MSE): 0.00283577
+Época 3000/10000, Erro (MSE): 0.00136974
+Época 4000/10000, Erro (MSE): 0.00088155
+Época 5000/10000, Erro (MSE): 0.00064402
+Época 6000/10000, Erro (MSE): 0.00050498
+Época 7000/10000, Erro (MSE): 0.00041417
+Época 8000/10000, Erro (MSE): 0.00035041
+Época 9000/10000, Erro (MSE): 0.00030327
+Época 10000/10000, Erro (MSE): 0.00026707
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 7 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 1 | Status: INCORRETO
+Dígito: 4 | Previsto: 1 | Status: INCORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:33:09 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02378831
+Época 2000/10000, Erro (MSE): 0.00406340
+Época 3000/10000, Erro (MSE): 0.00166725
+Época 4000/10000, Erro (MSE): 0.00103748
+Época 5000/10000, Erro (MSE): 0.00074971
+Época 6000/10000, Erro (MSE): 0.00058530
+Época 7000/10000, Erro (MSE): 0.00047911
+Época 8000/10000, Erro (MSE): 0.00040496
+Época 9000/10000, Erro (MSE): 0.00035029
+Época 10000/10000, Erro (MSE): 0.00030833
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 3 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 4 | Status: INCORRETO
+Dígito: 4 | Previsto: 8 | Status: INCORRETO
+Dígito: 5 | Previsto: 9 | Status: INCORRETO
+Dígito: 6 | Previsto: 4 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:33:21 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.01917858
+Época 2000/10000, Erro (MSE): 0.00399910
+Época 3000/10000, Erro (MSE): 0.00182093
+Época 4000/10000, Erro (MSE): 0.00115755
+Época 5000/10000, Erro (MSE): 0.00084370
+Época 6000/10000, Erro (MSE): 0.00066184
+Época 7000/10000, Erro (MSE): 0.00054353
+Época 8000/10000, Erro (MSE): 0.00046056
+Época 9000/10000, Erro (MSE): 0.00039923
+Época 10000/10000, Erro (MSE): 0.00035210
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 7 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 1 | Status: INCORRETO
+Dígito: 4 | Previsto: 8 | Status: INCORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 8 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:33:34 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02378598
+Época 2000/10000, Erro (MSE): 0.00402081
+Época 3000/10000, Erro (MSE): 0.00162367
+Época 4000/10000, Erro (MSE): 0.00100436
+Época 5000/10000, Erro (MSE): 0.00072326
+Época 6000/10000, Erro (MSE): 0.00056333
+Época 7000/10000, Erro (MSE): 0.00046038
+Época 8000/10000, Erro (MSE): 0.00038869
+Época 9000/10000, Erro (MSE): 0.00033596
+Época 10000/10000, Erro (MSE): 0.00029559
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 9 | Status: INCORRETO
+Dígito: 4 | Previsto: 8 | Status: INCORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 4 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:33:46 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02276119
+Época 2000/10000, Erro (MSE): 0.00930563
+Época 3000/10000, Erro (MSE): 0.00390037
+Época 4000/10000, Erro (MSE): 0.00167955
+Época 5000/10000, Erro (MSE): 0.00103271
+Época 6000/10000, Erro (MSE): 0.00074091
+Época 7000/10000, Erro (MSE): 0.00057686
+Época 8000/10000, Erro (MSE): 0.00047166
+Época 9000/10000, Erro (MSE): 0.00039832
+Época 10000/10000, Erro (MSE): 0.00034421
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 6 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 1 | Status: INCORRETO
+Dígito: 4 | Previsto: 8 | Status: INCORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 8 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:33:58 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.03613257
+Época 2000/10000, Erro (MSE): 0.00429905
+Época 3000/10000, Erro (MSE): 0.00185411
+Época 4000/10000, Erro (MSE): 0.00114635
+Época 5000/10000, Erro (MSE): 0.00081982
+Época 6000/10000, Erro (MSE): 0.00063421
+Época 7000/10000, Erro (MSE): 0.00051531
+Época 8000/10000, Erro (MSE): 0.00043298
+Época 9000/10000, Erro (MSE): 0.00037276
+Época 10000/10000, Erro (MSE): 0.00032688
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 1 | Status: INCORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:34:10 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.03603962
+Época 2000/10000, Erro (MSE): 0.00462508
+Época 3000/10000, Erro (MSE): 0.00187410
+Época 4000/10000, Erro (MSE): 0.00114792
+Época 5000/10000, Erro (MSE): 0.00082355
+Época 6000/10000, Erro (MSE): 0.00064147
+Época 7000/10000, Erro (MSE): 0.00052512
+Época 8000/10000, Erro (MSE): 0.00044436
+Época 9000/10000, Erro (MSE): 0.00038501
+Época 10000/10000, Erro (MSE): 0.00033956
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 7 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 4 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:34:22 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02600037
+Época 2000/10000, Erro (MSE): 0.00513677
+Época 3000/10000, Erro (MSE): 0.00227793
+Época 4000/10000, Erro (MSE): 0.00142506
+Época 5000/10000, Erro (MSE): 0.00102816
+Época 6000/10000, Erro (MSE): 0.00080094
+Época 7000/10000, Erro (MSE): 0.00065442
+Época 8000/10000, Erro (MSE): 0.00055238
+Época 9000/10000, Erro (MSE): 0.00047737
+Época 10000/10000, Erro (MSE): 0.00041997
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 4 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 8 | Status: INCORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 5 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:34:35 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02338433
+Época 2000/10000, Erro (MSE): 0.00310399
+Época 3000/10000, Erro (MSE): 0.00142802
+Época 4000/10000, Erro (MSE): 0.00090494
+Época 5000/10000, Erro (MSE): 0.00065625
+Época 6000/10000, Erro (MSE): 0.00051241
+Época 7000/10000, Erro (MSE): 0.00041916
+Época 8000/10000, Erro (MSE): 0.00035401
+Época 9000/10000, Erro (MSE): 0.00030602
+Época 10000/10000, Erro (MSE): 0.00026925
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 6 | Status: INCORRETO
+Dígito: 6 | Previsto: 4 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:34:47 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02055355
+Época 2000/10000, Erro (MSE): 0.00433984
+Época 3000/10000, Erro (MSE): 0.00162912
+Época 4000/10000, Erro (MSE): 0.00098026
+Época 5000/10000, Erro (MSE): 0.00069801
+Época 6000/10000, Erro (MSE): 0.00054101
+Época 7000/10000, Erro (MSE): 0.00044124
+Época 8000/10000, Erro (MSE): 0.00037231
+Época 9000/10000, Erro (MSE): 0.00032187
+Época 10000/10000, Erro (MSE): 0.00028338
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 4 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 4 | Status: INCORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 0 | Status: INCORRETO
+Dígito: 6 | Previsto: 4 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:35:00 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.01894327
+Época 2000/10000, Erro (MSE): 0.00336028
+Época 3000/10000, Erro (MSE): 0.00160091
+Época 4000/10000, Erro (MSE): 0.00103042
+Época 5000/10000, Erro (MSE): 0.00075395
+Época 6000/10000, Erro (MSE): 0.00059218
+Época 7000/10000, Erro (MSE): 0.00048648
+Época 8000/10000, Erro (MSE): 0.00041221
+Época 9000/10000, Erro (MSE): 0.00035726
+Época 10000/10000, Erro (MSE): 0.00031503
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 7 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 8 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:35:13 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.03470642
+Época 2000/10000, Erro (MSE): 0.00821698
+Época 3000/10000, Erro (MSE): 0.00277742
+Época 4000/10000, Erro (MSE): 0.00151894
+Época 5000/10000, Erro (MSE): 0.00100553
+Época 6000/10000, Erro (MSE): 0.00074691
+Época 7000/10000, Erro (MSE): 0.00059418
+Época 8000/10000, Erro (MSE): 0.00049331
+Época 9000/10000, Erro (MSE): 0.00042167
+Época 10000/10000, Erro (MSE): 0.00036815
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 0 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 8 | Status: INCORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 5 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:35:26 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02725788
+Época 2000/10000, Erro (MSE): 0.00732292
+Época 3000/10000, Erro (MSE): 0.00261968
+Época 4000/10000, Erro (MSE): 0.00148725
+Época 5000/10000, Erro (MSE): 0.00102448
+Época 6000/10000, Erro (MSE): 0.00077724
+Época 7000/10000, Erro (MSE): 0.00062441
+Época 8000/10000, Erro (MSE): 0.00052096
+Época 9000/10000, Erro (MSE): 0.00044644
+Época 10000/10000, Erro (MSE): 0.00039030
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 4 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 2 | Status: INCORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 9 | Status: INCORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:35:38 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02381713
+Época 2000/10000, Erro (MSE): 0.00371589
+Época 3000/10000, Erro (MSE): 0.00180536
+Época 4000/10000, Erro (MSE): 0.00117609
+Época 5000/10000, Erro (MSE): 0.00086660
+Época 6000/10000, Erro (MSE): 0.00068364
+Época 7000/10000, Erro (MSE): 0.00056321
+Época 8000/10000, Erro (MSE): 0.00047813
+Época 9000/10000, Erro (MSE): 0.00041492
+Época 10000/10000, Erro (MSE): 0.00036616
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 3 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 1 | Status: INCORRETO
+Dígito: 4 | Previsto: 8 | Status: INCORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 4 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:35:50 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.01978759
+Época 2000/10000, Erro (MSE): 0.00363917
+Época 3000/10000, Erro (MSE): 0.00146864
+Época 4000/10000, Erro (MSE): 0.00089429
+Época 5000/10000, Erro (MSE): 0.00063793
+Época 6000/10000, Erro (MSE): 0.00049420
+Época 7000/10000, Erro (MSE): 0.00040260
+Época 8000/10000, Erro (MSE): 0.00033927
+Época 9000/10000, Erro (MSE): 0.00029292
+Época 10000/10000, Erro (MSE): 0.00025756
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 7 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 1 | Status: INCORRETO
+Dígito: 4 | Previsto: 8 | Status: INCORRETO
+Dígito: 5 | Previsto: 6 | Status: INCORRETO
+Dígito: 6 | Previsto: 8 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:36:01 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02576945
+Época 2000/10000, Erro (MSE): 0.00413608
+Época 3000/10000, Erro (MSE): 0.00192075
+Época 4000/10000, Erro (MSE): 0.00123277
+Época 5000/10000, Erro (MSE): 0.00090227
+Época 6000/10000, Erro (MSE): 0.00070921
+Época 7000/10000, Erro (MSE): 0.00058304
+Época 8000/10000, Erro (MSE): 0.00049433
+Época 9000/10000, Erro (MSE): 0.00042865
+Época 10000/10000, Erro (MSE): 0.00037812
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 7 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 8 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:36:14 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02706425
+Época 2000/10000, Erro (MSE): 0.00555347
+Época 3000/10000, Erro (MSE): 0.00247374
+Época 4000/10000, Erro (MSE): 0.00149656
+Época 5000/10000, Erro (MSE): 0.00104653
+Época 6000/10000, Erro (MSE): 0.00079509
+Época 7000/10000, Erro (MSE): 0.00063702
+Época 8000/10000, Erro (MSE): 0.00052940
+Época 9000/10000, Erro (MSE): 0.00045183
+Época 10000/10000, Erro (MSE): 0.00039347
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 4 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 9 | Status: INCORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:36:27 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02668124
+Época 2000/10000, Erro (MSE): 0.00635065
+Época 3000/10000, Erro (MSE): 0.00259869
+Época 4000/10000, Erro (MSE): 0.00152986
+Época 5000/10000, Erro (MSE): 0.00106425
+Época 6000/10000, Erro (MSE): 0.00080881
+Época 7000/10000, Erro (MSE): 0.00064882
+Época 8000/10000, Erro (MSE): 0.00053979
+Época 9000/10000, Erro (MSE): 0.00046093
+Época 10000/10000, Erro (MSE): 0.00040137
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 6 | Status: INCORRETO
+Dígito: 5 | Previsto: 0 | Status: INCORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:36:39 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02310965
+Época 2000/10000, Erro (MSE): 0.00467300
+Época 3000/10000, Erro (MSE): 0.00186611
+Época 4000/10000, Erro (MSE): 0.00111664
+Época 5000/10000, Erro (MSE): 0.00078738
+Época 6000/10000, Erro (MSE): 0.00060479
+Época 7000/10000, Erro (MSE): 0.00048941
+Época 8000/10000, Erro (MSE): 0.00041018
+Época 9000/10000, Erro (MSE): 0.00035256
+Época 10000/10000, Erro (MSE): 0.00030883
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 7 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 8 | Status: INCORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 8 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:36:52 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.01937135
+Época 2000/10000, Erro (MSE): 0.00305059
+Época 3000/10000, Erro (MSE): 0.00146168
+Época 4000/10000, Erro (MSE): 0.00094011
+Época 5000/10000, Erro (MSE): 0.00068720
+Época 6000/10000, Erro (MSE): 0.00053922
+Época 7000/10000, Erro (MSE): 0.00044256
+Época 8000/10000, Erro (MSE): 0.00037466
+Época 9000/10000, Erro (MSE): 0.00032445
+Época 10000/10000, Erro (MSE): 0.00028586
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 7 | Status: INCORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 4 | Status: INCORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 7 | Status: INCORRETO
+Dígito: 6 | Previsto: 8 | Status: INCORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.
+=================================
+Executando Teste: 7-Segmentos
+Data: Sat Nov  1 17:37:04 -03 2025
+Parâmetros: Taxa=0.2, Épocas=10000
+=================================
+--- Configuração da Rede Neural para 7-Segmentos ---
+Digite a taxa de aprendizado (ex: 0.05): Digite o número de épocas de treinamento (ex: 5000): --------------------------------------------------
+Iniciando treinamento com arquitetura [7, 5, 10] e taxa=0.2...
+Época 1000/10000, Erro (MSE): 0.02077990
+Época 2000/10000, Erro (MSE): 0.00339237
+Época 3000/10000, Erro (MSE): 0.00161045
+Época 4000/10000, Erro (MSE): 0.00103634
+Época 5000/10000, Erro (MSE): 0.00075854
+Época 6000/10000, Erro (MSE): 0.00059597
+Época 7000/10000, Erro (MSE): 0.00048968
+Época 8000/10000, Erro (MSE): 0.00041496
+Época 9000/10000, Erro (MSE): 0.00035965
+Época 10000/10000, Erro (MSE): 0.00031711
+Treinamento concluído.
+--------------------------------------------------
+--- Resultados da Previsão (Dados Limpos) ---
+Estes são os 'prints de entrada e saída' para o relatório.
+Dígito: 0 | Previsto: 0 | Status: CORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 2 | Status: CORRETO
+Dígito: 3 | Previsto: 3 | Status: CORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+Dígito: 7 | Previsto: 7 | Status: CORRETO
+Dígito: 8 | Previsto: 8 | Status: CORRETO
+Dígito: 9 | Previsto: 9 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO SEM RUIDO: Acertou
+--------------------------------------------------
+--- Resultados da Previsão (Teste com Ruído)  ---
+Dígito: 0 | Previsto: 8 | Status: INCORRETO
+Dígito: 1 | Previsto: 1 | Status: CORRETO
+Dígito: 2 | Previsto: 3 | Status: INCORRETO
+Dígito: 3 | Previsto: 9 | Status: INCORRETO
+Dígito: 4 | Previsto: 4 | Status: CORRETO
+Dígito: 5 | Previsto: 5 | Status: CORRETO
+Dígito: 6 | Previsto: 6 | Status: CORRETO
+--------------------------------------------------
+->RESULTADO COM RUIDO: Errou
+--------------------------------------------------
+
+Teste 7-Segmentos concluído.

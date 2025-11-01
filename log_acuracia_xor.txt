@@ -1,0 +1,1 @@
+Params(Oculta: 2, Taxa: 0.2, Epocas: 100) | Acurácia: 50.00% (2/4)

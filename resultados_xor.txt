@@ -1,0 +1,1201 @@
+Limpando log antigo... (Iniciando lote de 30 execuções)
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:36:09 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25452830
+Época 1000/5000, Erro (MSE): 0.25437559
+Época 1500/5000, Erro (MSE): 0.25416579
+Época 2000/5000, Erro (MSE): 0.25411925
+Época 2500/5000, Erro (MSE): 0.25400449
+Época 3000/5000, Erro (MSE): 0.25381734
+Época 3500/5000, Erro (MSE): 0.25371243
+Época 4000/5000, Erro (MSE): 0.25327441
+Época 4500/5000, Erro (MSE): 0.25130575
+Época 5000/5000, Erro (MSE): 0.23391525
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:36:12 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25442682
+Época 1000/5000, Erro (MSE): 0.25436607
+Época 1500/5000, Erro (MSE): 0.25424072
+Época 2000/5000, Erro (MSE): 0.25414003
+Época 2500/5000, Erro (MSE): 0.25396657
+Época 3000/5000, Erro (MSE): 0.25393667
+Época 3500/5000, Erro (MSE): 0.25382812
+Época 4000/5000, Erro (MSE): 0.25368555
+Época 4500/5000, Erro (MSE): 0.25339842
+Época 5000/5000, Erro (MSE): 0.25236795
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 0
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:36:16 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25446591
+Época 1000/5000, Erro (MSE): 0.25432059
+Época 1500/5000, Erro (MSE): 0.25427740
+Época 2000/5000, Erro (MSE): 0.25416960
+Época 2500/5000, Erro (MSE): 0.25407920
+Época 3000/5000, Erro (MSE): 0.25399714
+Época 3500/5000, Erro (MSE): 0.25391784
+Época 4000/5000, Erro (MSE): 0.25377708
+Época 4500/5000, Erro (MSE): 0.25368493
+Época 5000/5000, Erro (MSE): 0.25360005
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 0
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 0
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:36:19 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25445930
+Época 1000/5000, Erro (MSE): 0.25424338
+Época 1500/5000, Erro (MSE): 0.25412408
+Época 2000/5000, Erro (MSE): 0.25407920
+Época 2500/5000, Erro (MSE): 0.25396397
+Época 3000/5000, Erro (MSE): 0.25379041
+Época 3500/5000, Erro (MSE): 0.25335066
+Época 4000/5000, Erro (MSE): 0.25050050
+Época 4500/5000, Erro (MSE): 0.22570230
+Época 5000/5000, Erro (MSE): 0.18405418
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:36:23 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25458324
+Época 1000/5000, Erro (MSE): 0.25442573
+Época 1500/5000, Erro (MSE): 0.25428333
+Época 2000/5000, Erro (MSE): 0.25416055
+Época 2500/5000, Erro (MSE): 0.25405028
+Época 3000/5000, Erro (MSE): 0.25394909
+Época 3500/5000, Erro (MSE): 0.25384241
+Época 4000/5000, Erro (MSE): 0.25370113
+Época 4500/5000, Erro (MSE): 0.25341277
+Época 5000/5000, Erro (MSE): 0.25217822
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:36:26 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25450055
+Época 1000/5000, Erro (MSE): 0.25435290
+Época 1500/5000, Erro (MSE): 0.25422181
+Época 2000/5000, Erro (MSE): 0.25409829
+Época 2500/5000, Erro (MSE): 0.25397910
+Época 3000/5000, Erro (MSE): 0.25378673
+Época 3500/5000, Erro (MSE): 0.25363758
+Época 4000/5000, Erro (MSE): 0.25306887
+Época 4500/5000, Erro (MSE): 0.24930068
+Época 5000/5000, Erro (MSE): 0.22080168
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:36:30 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25455589
+Época 1000/5000, Erro (MSE): 0.25440988
+Época 1500/5000, Erro (MSE): 0.25427132
+Época 2000/5000, Erro (MSE): 0.25415717
+Época 2500/5000, Erro (MSE): 0.25405902
+Época 3000/5000, Erro (MSE): 0.25395836
+Época 3500/5000, Erro (MSE): 0.25386388
+Época 4000/5000, Erro (MSE): 0.25369831
+Época 4500/5000, Erro (MSE): 0.25353261
+Época 5000/5000, Erro (MSE): 0.25316368
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 0
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:36:34 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25451144
+Época 1000/5000, Erro (MSE): 0.25443726
+Época 1500/5000, Erro (MSE): 0.25429718
+Época 2000/5000, Erro (MSE): 0.25417740
+Época 2500/5000, Erro (MSE): 0.25399826
+Época 3000/5000, Erro (MSE): 0.25395214
+Época 3500/5000, Erro (MSE): 0.25382343
+Época 4000/5000, Erro (MSE): 0.25360554
+Época 4500/5000, Erro (MSE): 0.25276548
+Época 5000/5000, Erro (MSE): 0.24632598
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:36:38 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25443815
+Época 1000/5000, Erro (MSE): 0.25429628
+Época 1500/5000, Erro (MSE): 0.25416834
+Época 2000/5000, Erro (MSE): 0.25404059
+Época 2500/5000, Erro (MSE): 0.25388197
+Época 3000/5000, Erro (MSE): 0.25356629
+Época 3500/5000, Erro (MSE): 0.25206700
+Época 4000/5000, Erro (MSE): 0.23776219
+Época 4500/5000, Erro (MSE): 0.19378465
+Época 5000/5000, Erro (MSE): 0.16199148
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:36:42 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25448304
+Época 1000/5000, Erro (MSE): 0.25433102
+Época 1500/5000, Erro (MSE): 0.25427074
+Época 2000/5000, Erro (MSE): 0.25414733
+Época 2500/5000, Erro (MSE): 0.25396362
+Época 3000/5000, Erro (MSE): 0.25391068
+Época 3500/5000, Erro (MSE): 0.25377331
+Época 4000/5000, Erro (MSE): 0.25356479
+Época 4500/5000, Erro (MSE): 0.25299128
+Época 5000/5000, Erro (MSE): 0.25046645
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:36:45 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25458848
+Época 1000/5000, Erro (MSE): 0.25435371
+Época 1500/5000, Erro (MSE): 0.25429527
+Época 2000/5000, Erro (MSE): 0.25410084
+Época 2500/5000, Erro (MSE): 0.25406167
+Época 3000/5000, Erro (MSE): 0.25389496
+Época 3500/5000, Erro (MSE): 0.25378510
+Época 4000/5000, Erro (MSE): 0.25370803
+Época 4500/5000, Erro (MSE): 0.25340073
+Época 5000/5000, Erro (MSE): 0.25260187
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 0
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:36:49 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25443136
+Época 1000/5000, Erro (MSE): 0.25437236
+Época 1500/5000, Erro (MSE): 0.25424551
+Época 2000/5000, Erro (MSE): 0.25407107
+Época 2500/5000, Erro (MSE): 0.25398145
+Época 3000/5000, Erro (MSE): 0.25396109
+Época 3500/5000, Erro (MSE): 0.25387535
+Época 4000/5000, Erro (MSE): 0.25371392
+Época 4500/5000, Erro (MSE): 0.25360015
+Época 5000/5000, Erro (MSE): 0.25310297
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 0
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:36:53 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25442059
+Época 1000/5000, Erro (MSE): 0.25426769
+Época 1500/5000, Erro (MSE): 0.25420383
+Época 2000/5000, Erro (MSE): 0.25406199
+Época 2500/5000, Erro (MSE): 0.25381868
+Época 3000/5000, Erro (MSE): 0.25347284
+Época 3500/5000, Erro (MSE): 0.25104400
+Época 4000/5000, Erro (MSE): 0.22899913
+Época 4500/5000, Erro (MSE): 0.18668873
+Época 5000/5000, Erro (MSE): 0.14972484
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:36:56 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25436866
+Época 1000/5000, Erro (MSE): 0.25430868
+Época 1500/5000, Erro (MSE): 0.25418545
+Época 2000/5000, Erro (MSE): 0.25406660
+Época 2500/5000, Erro (MSE): 0.25393002
+Época 3000/5000, Erro (MSE): 0.25370225
+Época 3500/5000, Erro (MSE): 0.25291704
+Época 4000/5000, Erro (MSE): 0.24618440
+Época 4500/5000, Erro (MSE): 0.20748821
+Época 5000/5000, Erro (MSE): 0.17322993
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:00 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25454053
+Época 1000/5000, Erro (MSE): 0.25438545
+Época 1500/5000, Erro (MSE): 0.25425650
+Época 2000/5000, Erro (MSE): 0.25407492
+Época 2500/5000, Erro (MSE): 0.25403910
+Época 3000/5000, Erro (MSE): 0.25393824
+Época 3500/5000, Erro (MSE): 0.25375654
+Época 4000/5000, Erro (MSE): 0.25356059
+Época 4500/5000, Erro (MSE): 0.25295140
+Época 5000/5000, Erro (MSE): 0.24773839
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:04 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25442180
+Época 1000/5000, Erro (MSE): 0.25429371
+Época 1500/5000, Erro (MSE): 0.25418000
+Época 2000/5000, Erro (MSE): 0.25400691
+Época 2500/5000, Erro (MSE): 0.25396287
+Época 3000/5000, Erro (MSE): 0.25377644
+Época 3500/5000, Erro (MSE): 0.25361474
+Época 4000/5000, Erro (MSE): 0.25292214
+Época 4500/5000, Erro (MSE): 0.24776589
+Época 5000/5000, Erro (MSE): 0.21374987
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:07 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25471211
+Época 1000/5000, Erro (MSE): 0.25453542
+Época 1500/5000, Erro (MSE): 0.25438057
+Época 2000/5000, Erro (MSE): 0.25425112
+Época 2500/5000, Erro (MSE): 0.25413761
+Época 3000/5000, Erro (MSE): 0.25404168
+Época 3500/5000, Erro (MSE): 0.25389611
+Época 4000/5000, Erro (MSE): 0.25381979
+Época 4500/5000, Erro (MSE): 0.25380944
+Época 5000/5000, Erro (MSE): 0.25373523
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 0
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:11 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25455052
+Época 1000/5000, Erro (MSE): 0.25446880
+Época 1500/5000, Erro (MSE): 0.25432648
+Época 2000/5000, Erro (MSE): 0.25420415
+Época 2500/5000, Erro (MSE): 0.25409939
+Época 3000/5000, Erro (MSE): 0.25394375
+Época 3500/5000, Erro (MSE): 0.25386645
+Época 4000/5000, Erro (MSE): 0.25379076
+Época 4500/5000, Erro (MSE): 0.25377095
+Época 5000/5000, Erro (MSE): 0.25361226
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:15 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25462598
+Época 1000/5000, Erro (MSE): 0.25445652
+Época 1500/5000, Erro (MSE): 0.25438604
+Época 2000/5000, Erro (MSE): 0.25425607
+Época 2500/5000, Erro (MSE): 0.25414186
+Época 3000/5000, Erro (MSE): 0.25397955
+Época 3500/5000, Erro (MSE): 0.25396550
+Época 4000/5000, Erro (MSE): 0.25389729
+Época 4500/5000, Erro (MSE): 0.25377406
+Época 5000/5000, Erro (MSE): 0.25377227
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:18 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25450703
+Época 1000/5000, Erro (MSE): 0.25442334
+Época 1500/5000, Erro (MSE): 0.25428514
+Época 2000/5000, Erro (MSE): 0.25414986
+Época 2500/5000, Erro (MSE): 0.25402276
+Época 3000/5000, Erro (MSE): 0.25388759
+Época 3500/5000, Erro (MSE): 0.25366458
+Época 4000/5000, Erro (MSE): 0.25286009
+Época 4500/5000, Erro (MSE): 0.24677780
+Época 5000/5000, Erro (MSE): 0.20974242
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:22 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25453720
+Época 1000/5000, Erro (MSE): 0.25438704
+Época 1500/5000, Erro (MSE): 0.25425150
+Época 2000/5000, Erro (MSE): 0.25413928
+Época 2500/5000, Erro (MSE): 0.25403669
+Época 3000/5000, Erro (MSE): 0.25393613
+Época 3500/5000, Erro (MSE): 0.25382961
+Época 4000/5000, Erro (MSE): 0.25368849
+Época 4500/5000, Erro (MSE): 0.25343942
+Época 5000/5000, Erro (MSE): 0.25268493
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 0
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 0
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:26 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25459612
+Época 1000/5000, Erro (MSE): 0.25443515
+Época 1500/5000, Erro (MSE): 0.25422285
+Época 2000/5000, Erro (MSE): 0.25410801
+Época 2500/5000, Erro (MSE): 0.25407391
+Época 3000/5000, Erro (MSE): 0.25391575
+Época 3500/5000, Erro (MSE): 0.25382783
+Época 4000/5000, Erro (MSE): 0.25378373
+Época 4500/5000, Erro (MSE): 0.25361038
+Época 5000/5000, Erro (MSE): 0.25308809
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:29 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25461261
+Época 1000/5000, Erro (MSE): 0.25437092
+Época 1500/5000, Erro (MSE): 0.25430824
+Época 2000/5000, Erro (MSE): 0.25418479
+Época 2500/5000, Erro (MSE): 0.25406967
+Época 3000/5000, Erro (MSE): 0.25390319
+Época 3500/5000, Erro (MSE): 0.25385513
+Época 4000/5000, Erro (MSE): 0.25371087
+Época 4500/5000, Erro (MSE): 0.25337823
+Época 5000/5000, Erro (MSE): 0.25159841
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:33 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25442063
+Época 1000/5000, Erro (MSE): 0.25428086
+Época 1500/5000, Erro (MSE): 0.25415614
+Época 2000/5000, Erro (MSE): 0.25410998
+Época 2500/5000, Erro (MSE): 0.25399852
+Época 3000/5000, Erro (MSE): 0.25387605
+Época 3500/5000, Erro (MSE): 0.25366238
+Época 4000/5000, Erro (MSE): 0.25344650
+Época 4500/5000, Erro (MSE): 0.25258705
+Época 5000/5000, Erro (MSE): 0.24830446
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:36 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25458934
+Época 1000/5000, Erro (MSE): 0.25442576
+Época 1500/5000, Erro (MSE): 0.25420693
+Época 2000/5000, Erro (MSE): 0.25415587
+Época 2500/5000, Erro (MSE): 0.25397914
+Época 3000/5000, Erro (MSE): 0.25393717
+Época 3500/5000, Erro (MSE): 0.25375428
+Época 4000/5000, Erro (MSE): 0.25353718
+Época 4500/5000, Erro (MSE): 0.25278933
+Época 5000/5000, Erro (MSE): 0.24600380
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:40 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25436411
+Época 1000/5000, Erro (MSE): 0.25430676
+Época 1500/5000, Erro (MSE): 0.25417840
+Época 2000/5000, Erro (MSE): 0.25405801
+Época 2500/5000, Erro (MSE): 0.25393959
+Época 3000/5000, Erro (MSE): 0.25379465
+Época 3500/5000, Erro (MSE): 0.25348696
+Época 4000/5000, Erro (MSE): 0.25285973
+Época 4500/5000, Erro (MSE): 0.24929083
+Época 5000/5000, Erro (MSE): 0.22894783
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:43 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25446236
+Época 1000/5000, Erro (MSE): 0.25431258
+Época 1500/5000, Erro (MSE): 0.25410110
+Época 2000/5000, Erro (MSE): 0.25397810
+Época 2500/5000, Erro (MSE): 0.25390238
+Época 3000/5000, Erro (MSE): 0.25365721
+Época 3500/5000, Erro (MSE): 0.25332324
+Época 4000/5000, Erro (MSE): 0.25175669
+Época 4500/5000, Erro (MSE): 0.24024269
+Época 5000/5000, Erro (MSE): 0.20152778
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:47 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25459956
+Época 1000/5000, Erro (MSE): 0.25436010
+Época 1500/5000, Erro (MSE): 0.25430574
+Época 2000/5000, Erro (MSE): 0.25419222
+Época 2500/5000, Erro (MSE): 0.25409521
+Época 3000/5000, Erro (MSE): 0.25401225
+Época 3500/5000, Erro (MSE): 0.25387467
+Época 4000/5000, Erro (MSE): 0.25385453
+Época 4500/5000, Erro (MSE): 0.25376498
+Época 5000/5000, Erro (MSE): 0.25361299
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 0
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:50 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25451757
+Época 1000/5000, Erro (MSE): 0.25443710
+Época 1500/5000, Erro (MSE): 0.25429243
+Época 2000/5000, Erro (MSE): 0.25410191
+Época 2500/5000, Erro (MSE): 0.25405952
+Época 3000/5000, Erro (MSE): 0.25395316
+Época 3500/5000, Erro (MSE): 0.25384446
+Época 4000/5000, Erro (MSE): 0.25368772
+Época 4500/5000, Erro (MSE): 0.25330521
+Época 5000/5000, Erro (MSE): 0.25108843
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
+=================================
+Executando Teste: XOR
+Data: Sat Nov  1 16:37:54 -03 2025
+Parâmetros: Oculta=2, Taxa=0.2, Épocas=5000
+=================================
+--- Configuração da Rede Neural para o XOR ---
+Digite o número de neurônios na camada oculta (ex: 2): Digite a taxa de aprendizado (ex: 0.1): Digite o número de épocas de treinamento (ex: 10000): ---------------------------------------------
+Iniciando treinamento com arquitetura [2, 2, 1] e taxa=0.2...
+Época 500/5000, Erro (MSE): 0.25460662
+Época 1000/5000, Erro (MSE): 0.25436186
+Época 1500/5000, Erro (MSE): 0.25422483
+Época 2000/5000, Erro (MSE): 0.25410735
+Época 2500/5000, Erro (MSE): 0.25406880
+Época 3000/5000, Erro (MSE): 0.25396656
+Época 3500/5000, Erro (MSE): 0.25386579
+Época 4000/5000, Erro (MSE): 0.25374091
+Época 4500/5000, Erro (MSE): 0.25345258
+Época 5000/5000, Erro (MSE): 0.25266287
+Treinamento concluído.
+---------------------------------------------
+--- Resultados da Previsão (XOR) ---
+Entrada: [0. 0.]
+  Esperado: 0.0
+  Previsto (Final): 0
+---
+Entrada: [0. 1.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 0.]
+  Esperado: 1.0
+  Previsto (Final): 1
+---
+Entrada: [1. 1.]
+  Esperado: 0.0
+  Previsto (Final): 1
+---
+Taxa de Acerto: 0/4 (0.000000%)
+
+Teste XOR concluído.
